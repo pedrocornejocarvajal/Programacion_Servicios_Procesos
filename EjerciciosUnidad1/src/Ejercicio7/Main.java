@@ -1,5 +1,10 @@
 package Ejercicio7;
 
+import java.io.File;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Enunciado:
  *
@@ -15,6 +20,26 @@ package Ejercicio7;
  */
 public class Main {
     public static void main(String[] args) {
+
+        ProcessBuilder pb1 = new ProcessBuilder("java","src/Ejercicio7/clase1.java");
+        ProcessBuilder pb2 = new ProcessBuilder("java","src/Ejercicio7/clase2.java");
+        ProcessBuilder pb3 = new ProcessBuilder("java","src/Ejercicio7/clase3.java");
+        //Salida por fichero
+        pb3.redirectOutput(new File("src/Ejercicio7/cls3.txt"));
+
+        List<ProcessBuilder> lpb = new ArrayList<ProcessBuilder>();
+        lpb.add(pb1);
+        lpb.add(pb2);
+        lpb.add(pb3);
+
+        pb1.redirectError(ProcessBuilder.Redirect.INHERIT);
+        pb2.redirectError(ProcessBuilder.Redirect.INHERIT);
+        pb3.redirectError(ProcessBuilder.Redirect.INHERIT);
+        try{
+            List<Process> lProcess = ProcessBuilder.startPipeline(lpb);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
 
     }
 }

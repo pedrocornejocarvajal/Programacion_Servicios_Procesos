@@ -1,0 +1,10 @@
+Esta ip:109.98.146 pertenece a la clase A
+Esta ip:146.246.26 pertenece a la clase B
+Esta ip:180.121.170 pertenece a la clase B
+Esta ip:149.156.87 pertenece a la clase B
+Esta ip:199.200.18 pertenece a la clase C
+Esta ip:101.220.218 pertenece a la clase A
+Esta ip:66.10.217 pertenece a la clase A
+Esta ip:23.80.158 pertenece a la clase A
+Esta ip:24.148.21 pertenece a la clase A
+Esta ip:163.156.147 pertenece a la clase B

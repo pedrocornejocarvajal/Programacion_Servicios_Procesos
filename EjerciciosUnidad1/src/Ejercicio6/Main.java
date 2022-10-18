@@ -1,5 +1,8 @@
 package Ejercicio6;
 
+import java.io.File;
+import java.io.IOException;
+
 /**
  * Enunciado:
  *
@@ -22,6 +25,17 @@ package Ejercicio6;
 public class Main {
     public static void main(String[] args) {
 
+        ProcessBuilder pb = new ProcessBuilder("java","creaTicket.java");
+        pb.directory(new File("src\\Ejercicio6"));
+        pb.inheritIO();
+        pb.redirectOutput(ProcessBuilder.Redirect.appendTo(new File("src\\Ejercicio6\\ticket.txt")));
+        try{
+            Process p = pb.start();
+            p.waitFor();
+            System.out.println("Proceso terminado");
+        } catch (IOException | InterruptedException e) {
+            throw new RuntimeException(e);
+        }
     }
 
 }

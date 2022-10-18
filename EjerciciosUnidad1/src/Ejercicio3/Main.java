@@ -2,6 +2,7 @@ package Ejercicio3;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.Scanner;
 
 /**
  * Enunciado:
@@ -12,16 +13,23 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
-        ProcessBuilder pb = new ProcessBuilder("java","ProcesoLento.java");
-        //Establecer directorio de trabajo para poder ejecutar el proceso
-        pb.directory(new File("src\\Ejercicio3"));
+            String comando;
+            Scanner sc = new Scanner(System.in);
+            System.out.print("Introduce un comando: ");
+            comando = sc.nextLine();
+            ejecutarProceso(comando);
+        }
 
-
-        try{
-            Process p = pb.start(); //Lanzamos el proceso
-
-        } catch (IOException e){
-            e.printStackTrace();
+        private static void ejecutarProceso(String comando){
+            String[] comandoAEjecutar = comando.split(" ");
+            ProcessBuilder pb = new ProcessBuilder(comandoAEjecutar);
+            pb.inheritIO();
+            try {
+                Process p = pb.start();
+                p.waitFor();
+                System.out.println("Proceso finalizado");
+            } catch (IOException | InterruptedException e) {
+                throw new RuntimeException(e);
+            }
         }
     }
-}
