@@ -1,4 +1,4 @@
-package Archivos;
+package Ejercicio3;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class CuentaCaracteres {
 	
-	private final static String RUTA_FICHERO = "src\\Archivos\\texto_largo.txt";
+	private final static String RUTA_FICHERO = "C:\\ficheros\\texto_largo.txt";
 
 	public static void main(String[] args) {
 		try {
