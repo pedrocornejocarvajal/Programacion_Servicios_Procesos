@@ -3,19 +3,6 @@ package ejercicio1;
 import java.io.IOException;
 import java.util.Scanner;
 
-/**
- * Enunciado:
- *
- * Crea un programa que muestre un menú al usuario como el siguiente:
- * Elija qué comando desea ejecutar:
- *
- *      1. Crear carpeta
- *      2. Crear fichero
- *      3. Mostrar contenido del directorio
- *
- * Atendiendo a la opción seleccionada por el usuario, el programa debe lanzar un proceso u otro. Toma de base el archivo Ejercicio1.java que se adjunta a la tarea.
- */
-
 public class Ejercicio1 {
 
 	public static void main(String[] args) {
