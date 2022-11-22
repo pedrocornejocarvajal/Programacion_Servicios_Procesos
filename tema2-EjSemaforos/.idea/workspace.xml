@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f4e71f4-7b5a-443c-8a0d-1becb7e77384" name="Changes" comment="">
+    <list default="true" id="f39ecaf1-c74c-4902-b6d0-df59a4e4b9f1" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/.idea/Unit2-Threads-master.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/.idea/misc.xml" afterDir="false" />
@@ -35,12 +35,20 @@
       <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/sincronizacion/SincronizacionSegmento.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/sincronizacion/VariableCompartida.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/sincronizacion/WaitNotifySimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforos/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforos/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforos/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforos/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforos/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SemaforoBasico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema2-EjSemaforos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforosAvanzado/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforosAvanzado/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforosAvanzado/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforosAvanzado/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforosAvanzado/out/production/tema2-EjSemaforosAvanzado/SemaforoAvanzado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforosAvanzado/tema2-EjSemaforosAvanzado.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosTema2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosTema2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prueba2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prueba2/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +62,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2HLmfCTuFXaAS2yppY7b0TiiqQB" />
+  <component name="ProjectId" id="2Hu5YID0fXn7OW61pnsq3CtO105" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -65,37 +73,36 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/pcornejo/Documents/EjercicioSegundo/Programacion_Servicios_Procesos/Unit2-Threads-master"
+    "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="EjerciciosTema2" />
+    <configuration name="SemaforoBasico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SemaforoBasico" />
+      <module name="tema2-EjSemaforos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SemaforoBasico" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9f4e71f4-7b5a-443c-8a0d-1becb7e77384" name="Changes" comment="" />
-      <created>1668072840502</created>
+      <changelist id="f39ecaf1-c74c-4902-b6d0-df59a4e4b9f1" name="Changes" comment="" />
+      <created>1669122176990</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1668072840502</updated>
-      <workItem from="1668072842068" duration="1329000" />
-      <workItem from="1669121726910" duration="458000" />
+      <updated>1669122176990</updated>
+      <workItem from="1669122178605" duration="1821000" />
     </task>
     <servers />
   </component>
