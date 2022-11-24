@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f39ecaf1-c74c-4902-b6d0-df59a4e4b9f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/.idea/Unit2-Threads-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/apuntes/HiloViaHerencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/apuntes/HiloViaInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/compartirinformacion/ComparticionInstanciaUnica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/compartirinformacion/ComparticionRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/compartirinformacion/ObjetoComun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/daemons/DaemonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/daemons/WorkerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/example1/Raton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/example1/RatonConcurrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/example1/RatonRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/example2/States.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/interrupciones/InterrupcionBasico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/interrupciones/InterrupcionDeHilos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/prioridadhilos/PrioridadDeHilos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/seccioncritica/Impresor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/sincronizacion/Encuesta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/sincronizacion/HilosCooperantesSincr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/sincronizacion/JoinBasico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/sincronizacion/SemaforoBasico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/sincronizacion/SincronizacionMetodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/sincronizacion/SincronizacionSegmento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/sincronizacion/VariableCompartida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2-Threads-master/Unit2-Examples/src/sincronizacion/WaitNotifySimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SemaforoBasico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tema2-EjSemaforos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforosAvanzado/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforosAvanzado/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforosAvanzado/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforosAvanzado/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforosAvanzado/out/production/tema2-EjSemaforosAvanzado/SemaforoAvanzado.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforosAvanzado/tema2-EjSemaforosAvanzado.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjerciciosTema2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosTema2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prueba2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prueba2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SemaforoBasico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SemaforoBasico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +30,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/pcornejo/Documents/EjercicioSegundo/Programacion_Servicios_Procesos/tema2-EjSemaforos"
   }
 }]]></component>
   <component name="RunManager">
@@ -103,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669122176990</updated>
       <workItem from="1669122178605" duration="1821000" />
+      <workItem from="1669281513423" duration="144000" />
     </task>
     <servers />
   </component>

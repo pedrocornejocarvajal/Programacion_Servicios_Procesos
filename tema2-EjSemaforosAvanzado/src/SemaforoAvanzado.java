@@ -28,6 +28,7 @@ public class SemaforoAvanzado implements  Runnable {
     public static void main(String[] args) {
         SemaforoAvanzado sb = new SemaforoAvanzado();
         for(int i=0; i<10; i++) {
+
             Thread hilo = new Thread(sb);
             hilo.setName("Cliente "+i);
             hilo.start();
