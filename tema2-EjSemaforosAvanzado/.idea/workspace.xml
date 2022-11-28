@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43a9471f-ee68-4541-80de-0933bb24c5a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../tema2-EjSemaforos (Pedro Cornejo Carvajal).rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tema2-EjSemaforos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tema2-EjSemaforos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tema2-EjSemaforos/out/production/tema2-EjSemaforos/SemaforoBasico.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tema2-EjSemaforos/out/production/tema2-EjSemaforos/SemaforoBasico.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tema2-EjSemaforos/src/SemaforoBasico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tema2-EjSemaforos/src/SemaforoBasico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SemaforoAvanzado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SemaforoAvanzado.java" afterDir="false" />
-    </list>
+    <list default="true" id="43a9471f-ee68-4541-80de-0933bb24c5a1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/pcornejo/Documents/EjercicioSegundo/Programacion_Servicios_Procesos/tema2-EjSemaforos"
+    "last_opened_file_path": "C:/Users/pcornejo/Documents/WhatsappPremium_JP"
   }
 }]]></component>
   <component name="RunManager">
@@ -69,6 +61,7 @@
       <updated>1669123400885</updated>
       <workItem from="1669123402297" duration="1101000" />
       <workItem from="1669281491914" duration="2962000" />
+      <workItem from="1669623693386" duration="52000" />
     </task>
     <servers />
   </component>
