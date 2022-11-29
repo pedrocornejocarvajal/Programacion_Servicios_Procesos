@@ -1,7 +1,0 @@
-Esta ip:79.167.91 pertenece a la clase A
-Esta ip:97.119.93 pertenece a la clase A
-Esta ip:222.10.211 pertenece a la clase C
-Esta ip:96.140.251 pertenece a la clase A
-Esta ip:12.240.52 pertenece a la clase A
-Esta ip:98.199.50 pertenece a la clase A
-Esta ip:46.91.127 pertenece a la clase A
