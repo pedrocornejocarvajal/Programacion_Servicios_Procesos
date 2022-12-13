@@ -1,7 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da3d08aa-3847-4626-923a-fab97f1e450f" name="Changes" comment="" />
+    <list default="true" id="da3d08aa-3847-4626-923a-fab97f1e450f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjerciciosTema2_PCC/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema2ExamenPedroCornejoCarvajal/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema2ExamenPedroCornejoCarvajal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema2ExamenPedroCornejoCarvajal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema2ExamenPedroCornejoCarvajal/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema2ExamenPedroCornejoCarvajal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema2ExamenPedroCornejoCarvajal/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema2ExamenPedroCornejoCarvajal/Tema2ExamenPedroCornejoCarvajal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema2ExamenPedroCornejoCarvajal/out/production/Tema2ExamenPedroCornejoCarvajal/Ejercicio1/Barberia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema2ExamenPedroCornejoCarvajal/out/production/Tema2ExamenPedroCornejoCarvajal/Enunciados/EXAMEN UNIDAD 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema2ExamenPedroCornejoCarvajal/src/Ejercicio1/Barberia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema2ExamenPedroCornejoCarvajal/src/Ejercicio2/Recoleccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema2ExamenPedroCornejoCarvajal/src/Enunciados/EXAMEN UNIDAD 2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemplosClase/ejercicio1/HilosDurmientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemplosClase/ejercicio1/HilosDurmientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemplosClase/ejercicio2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemplosClase/ejercicio2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemplosClase/ejercicio2/NumeroOculto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemplosClase/ejercicio2/NumeroOculto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemplosClase/ejercicio3/GestorHojas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemplosClase/ejercicio3/GestorHojas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemplosClase/ejercicio4/ColaCarniceria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemplosClase/ejercicio4/ColaCarniceria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemplosClase/ejerciciolibro/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemplosClase/ejerciciolibro/Estudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemplosClase/ejerciciolibro/EstudianteClaseLibro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemplosClase/ejerciciolibro/EstudianteClaseLibro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemplosClase/ejerciciolibro/EstudianteMetodosSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemplosClase/ejerciciolibro/EstudianteMetodosSynchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemplosClase/ejerciciolibro/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemplosClase/ejerciciolibro/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/apuntes/HiloViaHerencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/apuntes/HiloViaHerencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/apuntes/HiloViaInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/apuntes/HiloViaInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/compartirinformacion/ComparticionInstanciaUnica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/compartirinformacion/ComparticionInstanciaUnica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/compartirinformacion/ComparticionRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/compartirinformacion/ComparticionRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/compartirinformacion/ObjetoComun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/compartirinformacion/ObjetoComun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/daemons/DaemonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/daemons/DaemonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/daemons/WorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/daemons/WorkerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/example1/Raton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/example1/Raton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/example1/RatonConcurrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/example1/RatonConcurrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/example1/RatonRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/example1/RatonRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/example2/States.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/example2/States.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/interrupciones/InterrupcionBasico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/interrupciones/InterrupcionBasico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/interrupciones/InterrupcionDeHilos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/interrupciones/InterrupcionDeHilos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/pasoporpuente/PasoPorPuente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/pasoporpuente/PasoPorPuente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/prioridadhilos/PrioridadDeHilos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/prioridadhilos/PrioridadDeHilos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/productorconsumidor/ProductorConsumidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/productorconsumidor/ProductorConsumidor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/productorconsumidorthreadsafe/ProductorConsumidorContenedorThreadSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/productorconsumidorthreadsafe/ProductorConsumidorContenedorThreadSafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/seccioncritica/Impresor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/seccioncritica/Impresor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/sincronizacion/Encuesta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/sincronizacion/Encuesta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/sincronizacion/HilosCooperantesSincr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/sincronizacion/HilosCooperantesSincr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/sincronizacion/JoinBasico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/sincronizacion/JoinBasico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/sincronizacion/JoinMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/sincronizacion/JoinMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/sincronizacion/SemaforoBasico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/sincronizacion/SemaforoBasico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/sincronizacion/SincronizacionMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/sincronizacion/SincronizacionMetodos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/sincronizacion/SincronizacionSegmento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/sincronizacion/SincronizacionSegmento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/sincronizacion/VariableCompartida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/sincronizacion/VariableCompartida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/sincronizacion/WaitNotifySimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/sincronizacion/WaitNotifySimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/waitnotify/EjemploWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/waitnotify/EjemploWaitNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/waitnotify/EstrucuturaWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/waitnotify/EstrucuturaWaitNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/waitnotify/Tenedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/waitnotify/Tenedor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosTema2_PCC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosTema2_PCC/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +66,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IDtdEmiySNWOcrGwZYPGyJuVzL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -40,6 +100,8 @@
       <workItem from="1669728069758" duration="11000" />
       <workItem from="1669728176662" duration="599000" />
       <workItem from="1669965608513" duration="45000" />
+      <workItem from="1670917043050" duration="748000" />
+      <workItem from="1670917850085" duration="1967000" />
     </task>
     <servers />
   </component>

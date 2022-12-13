@@ -1,4 +1,4 @@
-package Threads.sincronizacion;
+package sincronizacion;
 
 /**
  * En este ejemplo se puede observar que el contenido de los dos métodos están

@@ -1,4 +1,4 @@
-package Threads.sincronizacion;
+package sincronizacion;
 
 /**
  * En este programa, 1000 hilos incrementan en 1000 unidades una variable estática común.

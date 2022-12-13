@@ -1,4 +1,4 @@
-package Threads.waitnotify;
+package waitnotify;
 
 public class EjemploWaitNotify implements Runnable {
 

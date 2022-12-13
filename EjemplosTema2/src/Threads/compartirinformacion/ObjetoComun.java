@@ -1,4 +1,4 @@
-package Threads.compartirinformacion;
+package compartirinformacion;
 
 public class ObjetoComun {
 	public int variableComun;

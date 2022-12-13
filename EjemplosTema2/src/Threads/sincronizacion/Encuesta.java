@@ -1,4 +1,4 @@
-package Threads.sincronizacion;
+package sincronizacion;
 
 import java.util.HashMap;
 import java.util.Random;

@@ -1,8 +1,8 @@
-package Threads.example2;
-
-import example1.RatonRunnable;
+package example2;
 
 import java.util.ArrayList;
+
+import example1.RatonRunnable;
 
 public class States {
 

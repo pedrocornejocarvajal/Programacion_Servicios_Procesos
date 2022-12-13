@@ -1,4 +1,4 @@
-package Threads.sincronizacion;
+package sincronizacion;
 
 /**
  * En este ejemplo, dos hilos creados a partir del mismo objeto ejecutan dos

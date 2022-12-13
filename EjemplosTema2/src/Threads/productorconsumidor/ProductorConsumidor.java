@@ -1,4 +1,4 @@
-package Threads.productorconsumidor;
+package productorconsumidor;
 
 class Contenedor<T> {
   private T dato;

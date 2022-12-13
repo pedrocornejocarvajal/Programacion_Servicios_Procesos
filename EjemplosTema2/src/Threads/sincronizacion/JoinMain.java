@@ -1,4 +1,4 @@
-package Threads.sincronizacion;
+package sincronizacion;
 
 public class JoinMain extends Thread {
 

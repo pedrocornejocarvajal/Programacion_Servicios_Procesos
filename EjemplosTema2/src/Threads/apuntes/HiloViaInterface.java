@@ -1,4 +1,4 @@
-package Threads.apuntes;
+package apuntes;
 
 public class HiloViaInterface implements Runnable{
 

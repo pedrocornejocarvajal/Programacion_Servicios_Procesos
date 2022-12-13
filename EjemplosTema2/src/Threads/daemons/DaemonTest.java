@@ -1,4 +1,4 @@
-package Threads.daemons;
+package daemons;
 
 public class DaemonTest {
 	public static void main(String[] args) {

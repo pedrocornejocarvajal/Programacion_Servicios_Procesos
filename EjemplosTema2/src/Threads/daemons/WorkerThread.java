@@ -1,4 +1,4 @@
-package Threads.daemons;
+package daemons;
 
 public class WorkerThread extends Thread {
 	public WorkerThread() { // When false, (i.e. when it's a non daemon thread), // the WorkerThread

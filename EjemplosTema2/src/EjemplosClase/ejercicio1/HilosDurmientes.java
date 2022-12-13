@@ -1,4 +1,4 @@
-package EjemplosClase.ejercicio1;
+package ejercicio1;
 
 public class HilosDurmientes extends Thread {
 	

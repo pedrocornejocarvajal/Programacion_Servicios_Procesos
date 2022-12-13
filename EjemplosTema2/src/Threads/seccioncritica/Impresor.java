@@ -1,4 +1,4 @@
-package Threads.seccioncritica;
+package seccioncritica;
 
 public class Impresor extends Thread {
 

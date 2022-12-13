@@ -1,4 +1,4 @@
-package EjemplosClase.ejerciciolibro;
+package ejerciciolibro;
 
 import java.util.Random;
 

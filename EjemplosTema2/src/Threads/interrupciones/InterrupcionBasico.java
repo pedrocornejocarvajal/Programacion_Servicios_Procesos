@@ -1,4 +1,4 @@
-package Threads.interrupciones;
+package interrupciones;
 
 public class InterrupcionBasico extends Thread {
 

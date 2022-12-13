@@ -1,4 +1,4 @@
-package Threads.interrupciones;
+package interrupciones;
 
 /**
  * En este ejemplo se lanzan dos hilos. Ambos pueden ser interrumpidos. 

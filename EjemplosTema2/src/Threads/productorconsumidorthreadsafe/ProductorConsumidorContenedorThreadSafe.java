@@ -1,4 +1,4 @@
-package Threads.productorconsumidorthreadsafe;
+package productorconsumidorthreadsafe;
 
 import java.util.Random;
 

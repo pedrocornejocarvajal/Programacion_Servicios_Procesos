@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc2e7728-abe3-4015-86df-c2065a6ebce0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../EjemplosTema2/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjerciciosTema2_PCC/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema2ExamenPedroCornejoCarvajal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tema2ExamenPedroCornejoCarvajal/Ejercicio1/Barberia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tema2ExamenPedroCornejoCarvajal/Enunciados/EXAMEN UNIDAD 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/Barberia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio2/Recoleccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enunciados/EXAMEN UNIDAD 2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio1/HilosDurmientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio1/HilosDurmientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio2/NumeroOculto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio2/NumeroOculto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio3/GestorHojas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio3/GestorHojas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio4/ColaCarniceria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio4/ColaCarniceria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/Estudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/EstudianteClaseLibro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/EstudianteClaseLibro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/EstudianteMetodosSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/EstudianteMetodosSynchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/apuntes/HiloViaHerencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/apuntes/HiloViaHerencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/apuntes/HiloViaInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/apuntes/HiloViaInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/compartirinformacion/ComparticionInstanciaUnica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/compartirinformacion/ComparticionInstanciaUnica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/compartirinformacion/ComparticionRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/compartirinformacion/ComparticionRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/compartirinformacion/ObjetoComun.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/compartirinformacion/ObjetoComun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/daemons/DaemonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/daemons/DaemonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/daemons/WorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/daemons/WorkerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example1/Raton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example1/Raton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example1/RatonConcurrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example1/RatonConcurrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example1/RatonRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example1/RatonRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example2/States.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example2/States.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/interrupciones/InterrupcionBasico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/interrupciones/InterrupcionBasico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/interrupciones/InterrupcionDeHilos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/interrupciones/InterrupcionDeHilos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/pasoporpuente/PasoPorPuente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/pasoporpuente/PasoPorPuente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/prioridadhilos/PrioridadDeHilos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/prioridadhilos/PrioridadDeHilos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/productorconsumidor/ProductorConsumidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/productorconsumidor/ProductorConsumidor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/productorconsumidorthreadsafe/ProductorConsumidorContenedorThreadSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/productorconsumidorthreadsafe/ProductorConsumidorContenedorThreadSafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/seccioncritica/Impresor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/seccioncritica/Impresor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/Encuesta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/Encuesta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/HilosCooperantesSincr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/HilosCooperantesSincr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/JoinBasico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/JoinBasico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/JoinMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/JoinMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/SemaforoBasico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/SemaforoBasico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/SincronizacionMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/SincronizacionMetodos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/SincronizacionSegmento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/SincronizacionSegmento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/VariableCompartida.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/VariableCompartida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/WaitNotifySimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/WaitNotifySimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/waitnotify/EjemploWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/waitnotify/EjemploWaitNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/waitnotify/EstrucuturaWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/waitnotify/EstrucuturaWaitNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/waitnotify/Tenedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/waitnotify/Tenedor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosTema2_PCC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosTema2_PCC/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IrC0YtHgvHpmb9FiCtBLkzIFPM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/pcornejo/Desktop"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pcornejo\Documents\EjercicioSegundo\Programacion_Servicios_Procesos\Tema2ExamenPedroCornejoCarvajal\src\Enunciados" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Ejercicio2" />
+      <recent name="Ejercicio1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Recoleccion">
+    <configuration name="Barberia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio1.Barberia" />
+      <module name="Tema2ExamenPedroCornejoCarvajal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recoleccion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio2.Recoleccion" />
+      <module name="Tema2ExamenPedroCornejoCarvajal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Recoleccion" />
+        <item itemvalue="Application.Barberia" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc2e7728-abe3-4015-86df-c2065a6ebce0" name="Changes" comment="" />
+      <created>1670930094156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670930094156</updated>
+      <workItem from="1670930095449" duration="8954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

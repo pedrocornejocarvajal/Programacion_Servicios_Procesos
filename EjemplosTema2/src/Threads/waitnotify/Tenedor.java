@@ -1,4 +1,4 @@
-package Threads.waitnotify;
+package waitnotify;
 
 public class Tenedor {
 	public boolean enPosesion = false;

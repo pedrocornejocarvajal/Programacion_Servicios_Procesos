@@ -1,4 +1,4 @@
-package Threads.sincronizacion;
+package sincronizacion;
 
 class Contador {
 

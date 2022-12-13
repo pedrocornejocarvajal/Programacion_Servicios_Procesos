@@ -1,4 +1,4 @@
-package EjemplosClase.ejercicio2;
+package ejercicio2;
 
 public class Main {
 

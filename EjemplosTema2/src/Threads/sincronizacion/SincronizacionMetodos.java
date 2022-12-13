@@ -1,4 +1,4 @@
-package Threads.sincronizacion;
+package sincronizacion;
 
 public class SincronizacionMetodos implements Runnable {
 

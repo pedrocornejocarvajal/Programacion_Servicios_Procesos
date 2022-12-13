@@ -1,4 +1,4 @@
-package Threads.prioridadhilos;
+package prioridadhilos;
 
 import java.util.ArrayList;
 

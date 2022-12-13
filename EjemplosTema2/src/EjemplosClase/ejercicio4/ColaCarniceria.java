@@ -1,4 +1,4 @@
-package EjemplosClase.ejercicio4;
+package ejercicio4;
 
 import java.util.concurrent.Semaphore;
 

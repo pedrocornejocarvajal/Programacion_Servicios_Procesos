@@ -1,4 +1,4 @@
-package EjemplosClase.ejerciciolibro;
+package ejerciciolibro;
 
 public class Libro {
 	public static boolean[] libros = new boolean[9];

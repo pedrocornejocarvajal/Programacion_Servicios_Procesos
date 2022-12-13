@@ -1,4 +1,4 @@
-package Threads.example1;
+package example1;
 
 public class RatonRunnable implements Runnable {
 	private String nombre;
