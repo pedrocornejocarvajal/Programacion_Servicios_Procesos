@@ -1,63 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dc2e7728-abe3-4015-86df-c2065a6ebce0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../EjemplosTema2/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosTema2_PCC/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema2ExamenPedroCornejoCarvajal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tema2ExamenPedroCornejoCarvajal/Ejercicio1/Barberia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tema2ExamenPedroCornejoCarvajal/Enunciados/EXAMEN UNIDAD 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/Barberia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio2/Recoleccion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enunciados/EXAMEN UNIDAD 2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio1/HilosDurmientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio1/HilosDurmientes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio2/NumeroOculto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio2/NumeroOculto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio3/GestorHojas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio3/GestorHojas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio4/ColaCarniceria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejercicio4/ColaCarniceria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/Estudiante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/EstudianteClaseLibro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/EstudianteClaseLibro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/EstudianteMetodosSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/EstudianteMetodosSynchronized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/EjemplosClase/ejerciciolibro/Libro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/apuntes/HiloViaHerencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/apuntes/HiloViaHerencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/apuntes/HiloViaInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/apuntes/HiloViaInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/compartirinformacion/ComparticionInstanciaUnica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/compartirinformacion/ComparticionInstanciaUnica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/compartirinformacion/ComparticionRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/compartirinformacion/ComparticionRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/compartirinformacion/ObjetoComun.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/compartirinformacion/ObjetoComun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/daemons/DaemonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/daemons/DaemonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/daemons/WorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/daemons/WorkerThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example1/Raton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example1/Raton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example1/RatonConcurrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example1/RatonConcurrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example1/RatonRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example1/RatonRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example2/States.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/example2/States.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/interrupciones/InterrupcionBasico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/interrupciones/InterrupcionBasico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/interrupciones/InterrupcionDeHilos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/interrupciones/InterrupcionDeHilos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/pasoporpuente/PasoPorPuente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/pasoporpuente/PasoPorPuente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/prioridadhilos/PrioridadDeHilos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/prioridadhilos/PrioridadDeHilos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/productorconsumidor/ProductorConsumidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/productorconsumidor/ProductorConsumidor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/productorconsumidorthreadsafe/ProductorConsumidorContenedorThreadSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/productorconsumidorthreadsafe/ProductorConsumidorContenedorThreadSafe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/seccioncritica/Impresor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/seccioncritica/Impresor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/Encuesta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/Encuesta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/HilosCooperantesSincr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/HilosCooperantesSincr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/JoinBasico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/JoinBasico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/JoinMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/JoinMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/SemaforoBasico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/SemaforoBasico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/SincronizacionMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/SincronizacionMetodos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/SincronizacionSegmento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/SincronizacionSegmento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/VariableCompartida.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/VariableCompartida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/WaitNotifySimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/sincronizacion/WaitNotifySimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/waitnotify/EjemploWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/waitnotify/EjemploWaitNotify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/waitnotify/EstrucuturaWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/waitnotify/EstrucuturaWaitNotify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/waitnotify/Tenedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemplosTema2/src/Threads/waitnotify/Tenedor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjerciciosTema2_PCC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosTema2_PCC/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +34,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/pcornejo/Desktop"
+    "last_opened_file_path": "C:/Users/pcornejo/Documents/EjercicioSegundo/Acceso_a_Datos/demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -141,6 +94,9 @@
       <option name="presentableId" value="Default" />
       <updated>1670930094156</updated>
       <workItem from="1670930095449" duration="8954000" />
+      <workItem from="1671523214353" duration="118000" />
+      <workItem from="1671523343931" duration="66000" />
+      <workItem from="1671523422481" duration="556000" />
     </task>
     <servers />
   </component>
